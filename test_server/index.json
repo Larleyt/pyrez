@@ -1,0 +1,11 @@
+{
+  "v": 1,
+  "id": "net.songbee.repo.white.alpha",
+  "maintainer": "Ale <ale@incrowd.ws>",
+  "tracks": [{
+    "id": "mindvortexalive",
+    "artist": "Mind Vortex",
+    "title": "Alive",
+    "uri": "http://127.0.0.1:9876/blob/mwa.flac"
+  }]
+}
