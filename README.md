@@ -41,6 +41,6 @@ This actually means Songbee is a federation, yay!
 Roadmap
 --------
 
-- [ ] HTTP straming
+- [ ] HTTP streaming
 - [ ] BitTorrent streaming
 - [ ] Move on to a GUI version..?
